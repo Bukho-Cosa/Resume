@@ -58,7 +58,30 @@
         }
         
         
-        
+        .menuDiv{
+            padding-bottom: 2.5rem;
+            border: 5px solid burlywood;
+        }
+        .menu{
+            display: inline; /* the default for span */
+            width: 100px;
+            height: 100px;
+            padding: 5px;
+            text-align: center;
+        }
+        .educationMenu{
+            padding: 1rem;
+        }
+        .experienceMenu{
+            padding: 1rem; 
+        }
+        .skillsMenu{
+            padding: 1rem;
+        }
+        .contactsMenu{
+            padding: 1rem;
+        }
+
         
         .body{
             border-style: solid;
@@ -116,7 +139,6 @@
 
 
   <body>
-
     <div class="header">
         <section>
             <header class="firstHeader">
@@ -129,7 +151,15 @@
         </section>
     </div>
 
-
+    <div class="menuDiv">
+        <section class="menu">
+            <h2> Menu </h2>
+            <a class="educationMenu" href="#education"> Education </a>
+            <a class="experienceMenu" href="#experience"> Experience </a>
+            <a class="skillsMenu" href="#skills"> Skills </a>
+            <a class="contactsMenu" href="contactHeading"> Contact Details </a>
+        </section>
+    </div>
 
     <div class="body">
         <table>
