@@ -8,7 +8,8 @@
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
 
     <style>
-     body{
+    
+    body{
         background-color: black;
     }
     
@@ -29,6 +30,7 @@
         margin-left: auto;
         margin-right: auto;
         border-radius: 50%;
+        border: 5px solid burlywood;
     }
     
     .firstHeader{
@@ -103,7 +105,7 @@
         display: inline-block;
         }
     </style>
-    
+
   </head>
 
 
