@@ -157,7 +157,7 @@
             <a class="educationMenu" href="#education"> Education </a>
             <a class="experienceMenu" href="#experience"> Experience </a>
             <a class="skillsMenu" href="#skills"> Skills </a>
-            <a class="contactsMenu" href="contactHeading"> Contact Details </a>
+            <a class="contactsMenu" href="#contactHeading"> Contact Details </a>
         </section>
     </div>
 
