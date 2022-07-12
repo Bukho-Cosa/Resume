@@ -9,50 +9,53 @@
 
     <style>
         body{
-    background-color: black;
-}
+            background-color: black;
+    }
+        div{
+            margin:30px;
+            color: white;
+            background-color: darkgray;
+            font-family: "Courier New"
+        }
+        /*for some reason the header isn't working*/
 
 
-div{
-    margin:30px;
-    color: white;
-    background-color: darkgray;
-    font-family: "Courier New"
-}
-/*for some reason the header isn't working*/
-.header{
-    background-image: url("background.jpg");
-}
-.facePict{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 50%;
-    border: 5px solid burlywood;
-}
-.firstHeader{
-    border-style: solid;
-    padding: 5px;
-}
-.name{
-    text-align: center;
-    padding-top: 2rem;
-}
-.subTitle{
-    display: inline-block;
-    width:50%;
-    padding-top: 0.5rem;
-}
-.location{
-    display: inline-flex;
-    text-align: right;
-    padding-top: 0.5rem;
-}
-.closingStatement{
-    text-align: center;
-    padding-top: 0.5rem;
-    padding-bottom: 2rem;
-}
+        
+        .header{
+            background-image: url("background.jpg");
+        }
+        
+        .facePict{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 50%;
+            border: 5px solid burlywood;
+        }
+        .firstHeader{
+            border-style: solid;
+            padding: 5px;
+        }
+        .name{
+            text-align: center;
+            padding-top: 2rem;
+        }
+        .subTitle{
+            display: inline-block;
+            width:50%;
+            padding-top: 0.5rem;
+        }
+        .location{
+            display: inline-flex;
+            text-align: right;
+            padding-top: 0.5rem;
+        }
+        
+        .closingStatement{
+            text-align: center;
+            padding-top: 0.5rem;
+            padding-bottom: 2rem;
+        }
 
 
 
