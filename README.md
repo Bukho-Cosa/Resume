@@ -6,6 +6,104 @@
   <head>
     <title> Bukho's Resumé </title>
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
+
+    <style>
+     body{
+        background-color: black;
+    }
+    
+    div{
+        margin:30px;
+        color: white;
+        background-color: darkgray;
+        font-family: "Courier New"
+    }
+        /*for some reason the header isn't working*/
+        
+    .header{
+        background-image: url("background.jpg");
+    }
+    
+    .facePict{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 50%;
+    }
+    
+    .firstHeader{
+        border-style: solid;
+        padding: 5px;
+    }
+    
+    .name{
+        text-align: center;
+    }
+    
+    .subTitle{
+        display: inline-block;
+        width:50%;
+    }
+    
+    .location{
+        display: inline-flex;
+        text-align: right;
+    }
+    
+    .closingStatement{
+        text-align: center;
+    }
+    
+    
+    .body{
+        border-style: solid;
+        padding: 5px;
+    }
+    /* I truly struggled to amke these individual inline structures so I put them in a table*/
+    .experience{
+        align-items: flex-start;
+        display: inline-block;
+        width:75%;
+    }
+    
+    .funThings{
+        align-items: flex-end;
+        display: inline-block;
+        width:25%;
+    }
+    
+    
+    .footer{
+        border-style: solid;
+        padding: 5px;
+    }
+    
+    .contactHeading{
+        text-align: center;
+    }
+    
+    .image{
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .link{
+        display: center;
+    }
+    
+    .image1{
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 50%;
+    }
+    
+    .phoneNumber{
+        display: inline-block;
+        }
+    </style>
+    
   </head>
 
 
