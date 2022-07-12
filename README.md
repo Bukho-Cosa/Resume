@@ -56,59 +56,61 @@
             padding-top: 0.5rem;
             padding-bottom: 2rem;
         }
-
-
-
-.body{
-    border-style: solid;
-    padding: 5px;
-}
-/* I truly struggled to amke these individual inline structures so I put them in a table*/
-.education{
-    align-items: flex-start;
-    display: inline-block;
-    width:65%;
-}
-.experience{
-    align-items: flex-start;
-    display: inline-block;
-    width:75%;
-}
-.funThings{
-    align-items: flex-end;
-    display: inline-block;
-    width:25%;
-}
-
-
-
-.footer{
-    border-style: solid;
-    padding: 5px;
-}
-.contactHeading{
-    text-align: center;
-}
-.image{
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 10%;
-}
-.link{
-    display: center;
-}
-.image1{
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 50%;
-    padding-top: 1rem;
-    padding-left: 10%;
-}
-.phoneNumber{
-    display: inline-block;
-}
+        
+        
+        
+        
+        .body{
+            border-style: solid;
+            padding: 5px;
+        }
+        /* I truly struggled to amke these individual inline structures so I put them in a table*/
+        .education{
+            align-items: flex-start;
+            display: inline-block;
+            width:65%;
+        }
+        .experience{
+            align-items: flex-start;
+            display: inline-block;
+            width:75%;
+        }
+        .funThings{
+            align-items: flex-end;
+            display: inline-block;
+            width:25%;
+        }
+        
+        
+        
+        
+        .footer{
+            border-style: solid;
+            padding: 5px;
+        }
+        .contactHeading{
+            text-align: center;
+        }
+        .image{
+            display: inline-block;
+            margin-left: auto;
+            margin-right: auto;
+            padding-left: 10%;
+        }
+        .link{
+            display: center;
+        }
+        .image1{
+            display: inline-block;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 50%;
+            padding-top: 1rem;
+            padding-left: 10%;
+        }
+        .phoneNumber{
+            display: inline-block;
+        }
     </style>
   </head>
 
