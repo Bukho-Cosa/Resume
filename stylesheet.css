@@ -103,6 +103,7 @@
         .footer{
             border-style: solid;
             padding: 5px;
+            border: 5px solid burlywood;
         }
         .contactHeading{
             text-align: center;
