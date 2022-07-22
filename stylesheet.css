@@ -52,6 +52,7 @@
         .menuDiv{
             padding-bottom: 2.5rem;
             border: 5px solid burlywood;
+            justify-content: center;
         }
         .menu{
             display: inline; /* the default for span */
@@ -59,6 +60,7 @@
             height: 100px;
             padding: 5px;
             text-align: center;
+            justify-content: center;
         }
         .educationMenu{
             padding: 1rem;
